@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.5.1
+_src_path: https://github.com/jupyterlab/extension-template.git
+author_email: ''
+author_name: Konstantin
+has_ai_rules: false
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: kernel_death
+project_short_description: A JupyterLab extension.
+python_name: kernel_death
+repository: ''
+test: true
+
