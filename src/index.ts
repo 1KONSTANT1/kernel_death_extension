@@ -37,7 +37,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
             // Показываем простое модальное окно с одной кнопкой
             showDialog({
               title: 'KERNEL DIED!',
-              body: 'Ядро умерло (restart_limit=0 — авто-перезапуск отключён)',
+              body: 'Your kernel session has ended.',
               buttons: [
                 Dialog.okButton({
                   label: 'OK'
